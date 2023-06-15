@@ -1,7 +1,10 @@
-package com.iamauttamai.volleyapi;
+package com.iamauttamai.volleyapi.api;
 
 import android.content.Context;
 import android.util.Log;
+
+import com.iamauttamai.volleyapi.R;
+
 import java.io.InputStream;
 import java.security.KeyStore;
 import java.security.cert.CertificateFactory;
